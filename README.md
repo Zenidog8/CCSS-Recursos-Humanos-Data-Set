@@ -4,8 +4,8 @@ Este repositorio contiene datos relacionados con la gestión de personal de la *
 
 ## Contenido
 
-- `raw-data\`: Continue datasets sin tratamiento ni consolidación. Se pueden obtener directamente y en otros formatos desde  la [página de datos abiertos de la CCSS](ccss.sa.cr/datos-abiertos).
-- `clean-data\`: Archivos con los datos tratados para análisis exploratorios y modelos de ciencia de datos relacionados con la gestión de talento humano en la CCSS.
+- `raw-data\`: Contiene datasets sin tratamiento ni consolidación. Se pueden obtener directamente y en otros formatos desde  la [página de datos abiertos de la CCSS](ccss.sa.cr/datos-abiertos).
+- `clean-data\`: Contiene archivos con datos tratados para análisis exploratorios y modelos de ciencia de datos relacionados con la gestión de talento humano en la CCSS.
 
 ## Descripción de los datos
 
